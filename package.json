@@ -1,0 +1,14 @@
+{
+  "name":"webpacktest",
+  "version":"1.0.0",
+  "description":"My Webpack Learning",
+  "main":"index.js",
+  "scripts":{
+      
+  },
+  "devDependencies": {
+    "webpack":"^4.44.1",
+    "webpack-cli":"^3.3.12"
+  }
+
+}
